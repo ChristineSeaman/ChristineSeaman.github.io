@@ -1,2 +1,2 @@
 # ChristineSeaman.github.io
-Recipes Pages
+[Recipes Pages](Recipes.md)
